@@ -16,12 +16,12 @@ Hi! My name is Adrian Thoenig 🧞‍♂️
 - 👟 Padel
 - 🎙️ Podcasting
 
-## I Speak
-🇪🇸 Spanish (Native)
-🇬🇧 English (Fluent)
-🇩🇪 German (Fluent)
-🇮🇹 Italian (Advanced)
-🇰🇷 Korean (Advanced)
+## Languages
+- 🇪🇸 Spanish (Native)
+- 🇬🇧 English (Fluent)
+- 🇩🇪 German (Fluent)
+- 🇮🇹 Italian (Advanced)
+- 🇰🇷 Korean (Advanced)
 
 ### Socials
 

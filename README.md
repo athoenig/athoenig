@@ -1,7 +1,7 @@
 Hi! My name is Adrian Thoenig 🧞‍♂️
 ========================================================================================================================================
 
-🌍 I am a FullStack Web Developer and iOS Developer based in Barcelona, Spain.
+🌍 I am a Cybersecurity engineer and web developer from Spain
 
 <br/>
 
@@ -12,16 +12,17 @@ Hi! My name is Adrian Thoenig 🧞‍♂️
 
 ## Hobbies
 
-- 🤖 Artificial Intelligence
-- 👟 Padel
-- 🎙️ Podcasting
+- 🧑🏻‍💻 Ethical Hacking
+- 🏴 Capture the Flag
+- 🧘🏻 Mindfulness Meditation
+- 👟 Running
 
 ## Languages
 - 🇪🇸 Spanish (Native)
 - 🇬🇧 English (Fluent)
 - 🇩🇪 German (Fluent)
 - 🇮🇹 Italian (Advanced)
-- 🇰🇷 Korean (Advanced)
+- 🇨🇳 Chinese (Beginner)
 
 ### Socials
 

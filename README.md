@@ -1,7 +1,7 @@
 Hi! My name is Adrian Thoenig 🧞‍♂️
 ========================================================================================================================================
 
-🌍 I am a Cybersecurity engineer and web developer from Spain
+🌍 I am a Software Engineer and Web Developer from Barcelona, Spain
 
 <br/>
 
@@ -12,17 +12,17 @@ Hi! My name is Adrian Thoenig 🧞‍♂️
 
 ## Hobbies
 
-- 🧑🏻‍💻 Ethical Hacking
-- 🏴 Capture the Flag
+- 🧑🏻‍💻 Programming
+- 🏴 Capture the Flag (CTF)
 - 🧘🏻 Mindfulness Meditation
-- 👟 Running
+- 👟 Padel
+- 🎧 DJ
 
 ## Languages
 - 🇪🇸 Spanish (Native)
 - 🇬🇧 English (Fluent)
 - 🇩🇪 German (Fluent)
-- 🇮🇹 Italian (Advanced)
-- 🇨🇳 Chinese (Beginner)
+- 🇰🇷 Korean (Beginner)
 
 ### Socials
 
